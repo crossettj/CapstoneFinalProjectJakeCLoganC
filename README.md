@@ -3,10 +3,12 @@
 # DONE:
 
 # put CSV files into data folder
+# add requirements
+# read csv files
 
 # TODO
 
-# Turn csvs into datasets
+
 # Use Api to retreive IMF data
 
 # Plans
