@@ -41,6 +41,14 @@ used to retreive all data, explore data, clean data, and write to database
 
 The idea and motavation behind our project
 
+## Final Capstone Presentation.pptx
+
+the presentation used for the in class presentation
+
+## Metabase - Capstone Emissions
+
+Dashboard Created to visualize findings within the data
+
 ## requirements.txt
 
 all needed installs in order to successfully run the capstone.ipynb document
